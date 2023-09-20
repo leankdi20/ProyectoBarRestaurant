@@ -23,7 +23,7 @@ namespace ProyectoBarRestaurant
         {
             //Le digo al sistema cual es mi Base de datos.
             this.server = "DESKTOP-31MUM0G";
-            this.database = "RestauranteSoto";
+            this.database = "Restaurante";
 
 
             //Hace conexion con el servidor y lo hace seguro para el usuario

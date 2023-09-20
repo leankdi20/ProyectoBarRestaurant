@@ -63,9 +63,11 @@ namespace ProyectoBarRestaurant
 
         public byte[] ImageToByteArray(System.Drawing.Image imagen)
         {
-            MemoryStream ms = new MemoryStream();
-            imagen.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
-            return ms.ToArray();
+            
+                MemoryStream ms = new MemoryStream();
+                imagen.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+                return ms.ToArray();
+            
         }
 
         public void Ingresar(string codigo, string nombres, string identificacion, string celular, string direccion, DateTime fechaIngreso, Image Imagen)

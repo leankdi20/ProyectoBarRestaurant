@@ -54,6 +54,7 @@
             this.button7 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.btnLimpiar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -64,10 +65,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(771, 48);
+            this.button1.Location = new System.Drawing.Point(1260, 606);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(201, 48);
+            this.button1.Size = new System.Drawing.Size(448, 48);
             this.button1.TabIndex = 0;
             this.button1.Text = "Atras";
             this.button1.UseVisualStyleBackColor = true;
@@ -212,12 +213,12 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.btnLimpiar);
             this.groupBox2.Controls.Add(this.Refrescar);
             this.groupBox2.Controls.Add(this.button5);
             this.groupBox2.Controls.Add(this.button4);
             this.groupBox2.Controls.Add(this.button3);
             this.groupBox2.Controls.Add(this.button2);
-            this.groupBox2.Controls.Add(this.button1);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Uighur", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(12, 472);
             this.groupBox2.Name = "groupBox2";
@@ -228,9 +229,9 @@
             // 
             // Refrescar
             // 
-            this.Refrescar.Location = new System.Drawing.Point(1005, 48);
+            this.Refrescar.Location = new System.Drawing.Point(1015, 48);
             this.Refrescar.Name = "Refrescar";
-            this.Refrescar.Size = new System.Drawing.Size(184, 45);
+            this.Refrescar.Size = new System.Drawing.Size(184, 48);
             this.Refrescar.TabIndex = 6;
             this.Refrescar.Text = "Refrescar";
             this.Refrescar.UseVisualStyleBackColor = true;
@@ -335,6 +336,16 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "TABLA DE EMPLEADOS";
             // 
+            // btnLimpiar
+            // 
+            this.btnLimpiar.Location = new System.Drawing.Point(849, 48);
+            this.btnLimpiar.Name = "btnLimpiar";
+            this.btnLimpiar.Size = new System.Drawing.Size(160, 48);
+            this.btnLimpiar.TabIndex = 7;
+            this.btnLimpiar.Text = "Limpiar";
+            this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
+            // 
             // Camareros
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -344,6 +355,7 @@
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
@@ -391,5 +403,6 @@
         private System.Windows.Forms.Button button7;
         public System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button btnLimpiar;
     }
 }

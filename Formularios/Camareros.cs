@@ -47,6 +47,16 @@ namespace ProyectoBarRestaurant
         private void button2_Click(object sender, EventArgs e)
         {
             camarero.Ingresar(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text, textBox5.Text, dateTimePicker1.Value, pictureBox1.Image);
+
+            // Limpia los campos de texto después de ingresar los datos
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+            textBox4.Clear();
+            textBox5.Clear();
+            // Opcionalmente, puedes restablecer dateTimePicker1 y pictureBox1 según tus necesidades
+            dateTimePicker1.Value = DateTime.Now;
+            pictureBox1.Image = null;
         }
 
         //Boton Modificar
@@ -217,6 +227,19 @@ namespace ProyectoBarRestaurant
                 MessageBox.Show("Error al verificar: " + ex.Message);
             }
             conexion.CloseConnection();
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            // Limpia los campos de texto después de ingresar los datos
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+            textBox4.Clear();
+            textBox5.Clear();
+            // Opcionalmente, puedes restablecer dateTimePicker1 y pictureBox1 según tus necesidades
+            dateTimePicker1.Value = DateTime.Now;
+            pictureBox1.Image = null;
         }
     }
 }

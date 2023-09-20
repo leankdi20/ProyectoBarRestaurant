@@ -121,6 +121,12 @@
   <data name="MesaConsumo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MesaConsumo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Croquis_Restaurant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Croquis_Restaurant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FondoNuevo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\FondoNuevo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="BotonSalir4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\BotonSalir4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,17 +136,23 @@
   <data name="diskette" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\diskette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Flecha arriba" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Flecha arriba.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="logoRest" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\logoRest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Comanda" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Comanda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1680x1050-px-social-networks-1279419-wallhere.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\1680x1050-px-social-networks-1279419-wallhere.com.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FondoTimer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\FondoTimer1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Consumo Mesa-Cuenta Consumo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Consumo Mesa-Cuenta Consumo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fondo blanco, c 01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fondo blanco, c 01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Fondo Menú" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Fondo Menú.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="logoRest2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\logoRest2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -160,6 +172,9 @@
   <data name="Fondo panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Fondo panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\error.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Fondo Menú2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Fondo Menú.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -172,14 +187,14 @@
   <data name="MesaNueva3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\MesaNueva3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Factura Final" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Factura Final.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="FondoTimer11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\FondoTimer1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Informacion de la cuenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Informacion de la cuenta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Un fondo Todo d 0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Un fondo Todo d 0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Fondo Menú" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Fondo Menú.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="lupa" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\lupa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -190,23 +205,32 @@
   <data name="Fondo Menú1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Fondo Menú.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="minimizar2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\minimizar2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="BotonSalir3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\BotonSalir3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fondo panel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Fondo panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Candado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Candado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Cierre_Caja" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Cierre_Caja.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Historial_Cliente" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Historial_Cliente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Plato2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Plato2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Informacion de la cuenta1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Informacion de la cuenta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Flecha arriba" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Flecha arriba.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Comanda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Comanda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Black-X-Letter-Transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Black-X-Letter-Transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="imgCliente" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\imgCliente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -220,8 +244,17 @@
   <data name="Fondo_factura" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Fondo_factura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Logotipo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Logotipo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="MesaNueva2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\MesaNueva2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fondo panel 21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Fondo panel 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Datos del pago" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Datos del pago.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -229,8 +262,14 @@
   <data name="MesaNueva" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\MesaNueva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Admin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Admin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="MesaMarron2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\MesaMarron2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Un fondo Todo d 0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Un fondo Todo d 0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="fondo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\fondo2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -238,8 +277,8 @@
   <data name="Fondo blanco, c 0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fondo blanco, c 0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Consumo Mesa-Cuenta Consumo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\Consumo Mesa-Cuenta Consumo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Historial_Cliente" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Historial_Cliente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Informacion Apertura" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Informacion Apertura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -247,7 +286,13 @@
   <data name="Fondo panel 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagenes\Fondo panel 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="FondoNuevo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagenes\FondoNuevo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="minimizar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\minimizar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Factura Final" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\Factura Final.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LoginAdmin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\LoginAdmin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

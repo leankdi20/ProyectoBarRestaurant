@@ -124,7 +124,7 @@ namespace ProyectoBarRestaurant
                 conexion.OpenConnection();
 
                 // Realiza una consulta SQL para eliminar la fila de la tabla MESA
-                string consultaSql = "Delete FROM[RestauranteSoto].[dbo].[MesaCobrada]";
+                string consultaSql = "Delete FROM[Restaurante].[dbo].[MesaCobrada]";
 
                 SqlCommand cmd = new SqlCommand(consultaSql, conexion.Connection);
 

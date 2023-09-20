@@ -142,7 +142,7 @@ namespace ProyectoBarRestaurant
         {
             List<Mesa> listaMesas = new List<Mesa>();
             conexion.OpenConnection();
-            string consultaSql = "SELECT DISTINCT [NumeroMesa], [Estado_Mesa] FROM [RestauranteSoto].[dbo].[MESA]";
+            string consultaSql = "SELECT DISTINCT [NumeroMesa], [Estado_Mesa] FROM [Restaurante].[dbo].[MESA]";
 
             using (SqlCommand command = new SqlCommand(consultaSql, conexion.Connection))
             {
@@ -182,7 +182,7 @@ namespace ProyectoBarRestaurant
             Mesa mesa = null;
             conexion.OpenConnection();
             string consultaSql = "SELECT Cantidad_Comenzales, Codigo_Camarero, Estado_Mesa " +
-                "FROM RestauranteSoto.DBO.MESA WHERE NumeroMesa = @num_Mesa";
+                "FROM Restaurante.DBO.MESA WHERE NumeroMesa = @num_Mesa";
 
             using (SqlCommand command = new SqlCommand(consultaSql, conexion.Connection))
             {
